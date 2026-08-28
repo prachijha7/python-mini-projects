@@ -19,8 +19,6 @@ operations = {
     "/": divide
 }
 
-
-
 def calculator():
 
     print(r'''
